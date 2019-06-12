@@ -5,7 +5,7 @@
 3D Slicer: DBS Guide
 <br>
 
-#### Lab Retreat 2019
+@size[60%](Lab Retreat 2019)
 @snapend
 
 @snap[south-west]
