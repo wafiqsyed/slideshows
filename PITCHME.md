@@ -15,21 +15,10 @@
 ### Contents
 
 @ol[](false)
-- What is React.js?
-- Why React.js?
-- Setup
-- Your First Component
-@olend
-
----
-@title[Contents]
-### Contents
-
-@ol[](false)
-- **What is React.js?**
-- Why React.js?
-- Setup
-- Your First Component
+- what is DBS Guide?
+- why 3D Slicer?
+- methods
+- case example
 @olend
 
 
@@ -47,16 +36,6 @@
 
 @ulend
 
----
-@title[Contents]
-### Contents
-
-@ol[](false)
-- What is React.js?
-- **Why React.js?**
-- Setup
-- Your First Component
-@olend
 
 ---
 @title[Why React.js?]
