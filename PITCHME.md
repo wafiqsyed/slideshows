@@ -7,7 +7,7 @@
 
 
 @size[40%](<p>Lab Retreat 2019<br>June 22, 2019</p>)
-@fa[envelope-o pad-right-icon]@size[40%]@css[contact-email](greydon.gilmore@gmail.com))
+@fa[envelope-o pad-right-icon]@size[40%]@css[contact-email](greydon.gilmore@gmail.com)
 @snapend
 
 @snap[south-west]
