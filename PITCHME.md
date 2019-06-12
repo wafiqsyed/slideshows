@@ -18,14 +18,12 @@
 @title[Contents]
 ### Contents
 
-@snap[south-west list-content-concise span-60]
-@ol[list-bullets-black](false)
+@ol[list-content-concise list-bullets-black](false)
 - what is DBS Guide?
 - why 3D Slicer?
 - methods
 - case example
 @olend
-@snapend
 
 ---
 @title[What is React.js?]
