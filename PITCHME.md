@@ -16,7 +16,7 @@
 
 ---
 @title[Contents]
-### Contents
+## Contents
 
 @ol[list-bullets-black](false)
 - What is DBS Guide?
