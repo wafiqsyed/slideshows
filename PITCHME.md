@@ -1,7 +1,11 @@
 ---?color=black
 @title[Title]
-@snap[west headline text-white span-70]
-3D Slicer: 
+
+@snap[west headline text-white span-10]
+3D Slicer:
+@snapend
+
+@snap[west headline text-white span-10]
 DBS Guide
 @snapend
 
