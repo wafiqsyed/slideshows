@@ -1,10 +1,12 @@
 ---?color=black
 @title[Title]
 
-@snap[west text-white span-100]
-## 3D Slicer: DBS Guide
+@snap[west headline text-white span-100]
+3D Slicer: DBS Guide
+@snapend
 <br>
 
+@snap[west text-white span-100]
 #### Lab Retreat 2019
 @snapend
 
