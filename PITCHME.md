@@ -18,16 +18,16 @@
 @title[Contents]
 ### Contents
 
-@ol[list-content-concise list-bullets-black](false)
-- what is DBS Guide?
-- why 3D Slicer?
-- methods
-- case example
+@ol[list-bullets-black](false)
+- What is DBS Guide?
+- Why 3D Slicer?
+- Methods
+- Case example
 @olend
 
 ---
 @title[What is React.js?]
-### What is React.js?
+### What is DBS Guide?
 
 @ul[list-bullets-black](true)
 - It's a library for building @size[1.5em](user interfaces)
