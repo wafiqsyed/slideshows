@@ -2,8 +2,7 @@
 @title[Title]
 
 @snap[west text-white span-80]
-## 3D Slicer: DBS Guide
-
+# 3D Slicer: DBS Guide
 #### Lab Retreat 2019
 @snapend
 
