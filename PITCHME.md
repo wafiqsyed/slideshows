@@ -7,7 +7,6 @@
 
 
 @size[40%](<p>Lab Retreat 2019<br>June 22, 2019</p>)
-@fa[envelope-o pad-right-icon]@size[40%]@css[contact-email](greydon.gilmore@gmail.com)
 @snapend
 
 @snap[south-west]
@@ -19,13 +18,14 @@
 @title[Contents]
 ### Contents
 
-@ol[](false)
+@snap[south-west list-content-concise span-60]
+@ol[list-bullets-black](false)
 - what is DBS Guide?
 - why 3D Slicer?
 - methods
 - case example
 @olend
-
+@snapend
 
 ---
 @title[What is React.js?]
