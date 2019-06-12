@@ -2,9 +2,8 @@
 @title[Title]
 
 @snap[west headline text-white span-30]
-3D Slicer:
-
-DBS Guide
+# 3D Slicer:
+### DBS Guide
 @snapend
 
 @snap[south-west]
