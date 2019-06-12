@@ -6,7 +6,7 @@
 
 <p>
 @size[40%](Lab Retreat 2019)<br>@size[40%](June 22, 2019)
-</>
+</p>
 
 @snapend
 
