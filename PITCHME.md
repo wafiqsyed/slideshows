@@ -1,7 +1,7 @@
 ---?color=black
 @title[Title]
 
-@snap[west text-white span-80]
+@snap[west text-white span-100]
 # 3D Slicer: DBS Guide
 #### Lab Retreat 2019
 @snapend
