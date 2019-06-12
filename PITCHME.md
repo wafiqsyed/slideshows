@@ -3,9 +3,7 @@
 
 @snap[west headline text-white span-10]
 3D Slicer:
-@snapend
 
-@snap[west headline text-white span-10]
 DBS Guide
 @snapend
 
