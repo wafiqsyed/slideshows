@@ -13,13 +13,13 @@ published : true
 # Theme Setting
 # Doc: https://gitpitch.com/docs/settings/theme
 #
-theme : simple
+theme : black
 
 #
 # Theme-Override Setting
 # Doc: https://gitpitch.com/docs/settings/custom-theme
 #
-theme-override : template/css/PITCHME.css
+theme-override : /css/PITCHME.css
 
 #
 # Logo Setting
@@ -33,8 +33,7 @@ theme-override : template/css/PITCHME.css
 # Doc: https://gitpitch.com/docs/settings/footnote
 #
 # footnote : "GitPitch - The Fastest Way From Idea To Presentation"
-footnote : "<a target='_blank' href='https://github.com/greydongilmore/'>React.js</a>"
-
+footnote : "<a target='_blank' href='https://github.com/greydongilmore/slideshows/tree/master/labretreat_2019'>DBS Guide</a>"
 
 
 #
@@ -49,11 +48,12 @@ highlight : atom-one-dark
 #
 # layout : center
 layout : top-left
+
 #
 # Transition Setting
 # This template uses GitPitch Snap-Layouts extensively. For this
 # reason THIS VALUE SHOULD NOT BE MODIFIED. See:
 # https://gitpitch.com/docs/layout-features/snap-layout-slide-transitions
 #
-transition : slide
+transition : none
 

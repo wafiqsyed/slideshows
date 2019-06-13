@@ -70,6 +70,10 @@
   list-style-type: circle !important;
 }
 
+.list-bullets-squares {
+  list-style-type: square !important;
+  padding: 40px 40px;
+}
 
 /** Image Template Styles ***/
 
@@ -214,9 +218,14 @@
 .span-90 { width: 90% }
 .span-95 { width: 95% }
 .span-100 { width: 100% }
-
+.span-120 { width: 120% }
 
 /** Reveal.js Core Override Styles **/
+
+.reveal ul li {
+    margin-left: 40px;
+    padding-right: 0;
+}
 
 .reveal ol li {
     margin-left: 0;
@@ -287,10 +296,13 @@
 
 .reveal .slides section .code-presenting-annotation {
   color: white;
+  width: 95%;
+  font-size: 0.8em;
+  font-weight: bold;
   background: black;
-  padding: 0px 15px;
-  border-radius: 15px;
+  padding: 10px 15px;
+  border-right: -15px;
+  border-radius: 5px;
   opacity: 0.75 !important;
-  font-size: 50% !important;
 }
 
