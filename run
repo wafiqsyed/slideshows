@@ -1,1 +1,2 @@
 docker run -it -v /home/ggilmore/Documents/GitHub/slideshows/labretreat_2019:/repo -p 9000:9000 gitpitch/desktop:pro
+http://localhost:9000
