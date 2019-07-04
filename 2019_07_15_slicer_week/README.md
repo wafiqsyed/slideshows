@@ -3,6 +3,7 @@
 
 # DBS Gide
 ## open-source neurosurgical planning software
-### Greydon Gilmore & Wafiq Syed
+### @greydongilmore & @wafiqsyed
 #### London Health Sciences Centre
 ##### July 2019
+
